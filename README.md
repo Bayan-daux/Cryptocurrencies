@@ -9,9 +9,10 @@ The data to work on stored at _crypto\_data.csv_ and was retrieved from [CryptoC
 This new assignment consists of four technical analysis deliverables.
 
 - Deliverable 1: Preprocessing the Data for PCA
-
 - Deliverable 2: Reducing Data Dimensions Using PCA
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
 
 ### **Results**
+
+![image](Images/Elbow_Curve.png.png)
