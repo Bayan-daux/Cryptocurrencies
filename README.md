@@ -15,10 +15,13 @@ This new assignment consists of four technical analysis deliverables.
 
 ### **Results**
 
+Elbow Curve
 ![image](Images/Elbow_Curve.png)
 
+3D-Scatter with the PCA data and the clusters
 ![image](Images/clustered.png)
 
+hvplot.scatter plot
 ![image](Images/hvplot.png)
 
 
