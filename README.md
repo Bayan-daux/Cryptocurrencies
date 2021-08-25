@@ -15,4 +15,10 @@ This new assignment consists of four technical analysis deliverables.
 
 ### **Results**
 
-![image](Images/Elbow_Curve.png.png)
+![image](Images/Elbow_Curve.png)
+
+![image](Images/clustered.png)
+
+![image](Images/hvplot.png)
+
+
