@@ -16,13 +16,14 @@ This new assignment consists of four technical analysis deliverables.
 ### **Results**
 
 - Elbow Curve
+
 ![image](Images/Elbow_Curve.png)
 
 - 3D-Scatter with the PCA data and the Clusters
 ![image](Images/clustered.png)
 
 - Tradable Cryptocurrencies
-![image](Images/tradable_cryptocurrencies.png)
+![image](Images/tradable_cryptocurrencies.PNG)
 
 - Hvplot Scatter Plot
 ![image](Images/hvplot.png)
